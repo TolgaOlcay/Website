@@ -714,6 +714,7 @@ html{
 
 
 
+
 }
 
 @media all and (max-width: 1200px) { 
@@ -726,9 +727,6 @@ html{
 }
 
 
-.navbar{
-	font-family: VCR OSD Mono;
-}
 
 .Git img{
 	height:50px;
@@ -748,73 +746,48 @@ html{
 }
 
 .navbar p{
-	font-family: VCR OSD Mono;
+	
 	font-size:24px;
 }
 
-.textbox1{
-	font-family: VCR OSD Mono;
-}
 
-.textbox2{
-	font-family: VCR OSD Mono;
-}
-
-.course{
-	font-family: VCR OSD Mono;
-}
-
-.objects{
-	font-family: VCR OSD Mono;
-}
-
-.items{
-	font-family: VCR OSD Mono;
-	
-}
-
-.rear{
-	font-family: VCR OSD Mono;
-}
 .menu p{
-	font-family: VCR OSD Mono;
+	
 	
 	font-size:12px;
 }
 .info p{
-	font-family: 7;
+	
 	font-size:12px;
 }
 .button2 {
-	font-family: VCR OSD Mono;
+	
 	padding: 5px;
 	margin-right:10px;
 }
 
 
 .link2{
-	font-family: VCR OSD Mono;
+	
 	margin-left:-51px;
 }
 
-.link{
-	font-family: VCR OSD Mono;
-}
+
 
 .contactContent{
-	font-family: VCR OSD Mono;
+	
 	margin-right:-180px;
 	margin-top:50px;
 }
 
 .welcome{
-	font-family: VCR OSD Mono;
+
 	margin-top: 125px;
 	justify-content: center;
 }
 
 .status{
-	font-family: VCR OSD Mono;
+
 	justify-content: center;
 	margin: 0px;
 	margin-top:0ps;
