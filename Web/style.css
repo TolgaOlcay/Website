@@ -60,6 +60,8 @@ body{
 	border-style: double;
 	
 	font-family: alagard;
+	font-weight: normal;
+	font-style: none;
 	font-size: 18 px;
 	
 	margin-top: 0px;
@@ -114,6 +116,8 @@ body{
 .navbar p{
 	
 	font-family: alagard;
+	font-weight: normal;
+	font-style: none;
 	font-size: 72px;
 	font-style: none;
 	color: rgba(0, 0, 0, 0.65);
@@ -127,6 +131,8 @@ body{
 .menu p{
 	
 	font-family: alagard;
+	font-weight: normal;
+	font-style: none;
 	font-size: 18px;
 	color: #DDD;
 	text-align: center;
@@ -138,6 +144,8 @@ body{
 .info p{
 	
 	font-family: alagard;
+	font-weight: normal;
+	font-style: none;
 	font-size: 18px;
 	color: #DDD;
 	text-align: center;
@@ -402,6 +410,8 @@ body{
 .course{
 	text-align: center;
 	font-family: alagard;
+	font-weight: normal;
+	font-style: none;
 	color: #DDD;
 	
 }	
@@ -412,6 +422,8 @@ body{
 	display:flex;
 	flex-flow: column;
 	font-family: alagard;
+	font-weight: normal;
+	font-style: none;
 	color: #DDD;
 	margin-left:-5%;
 	
@@ -432,6 +444,8 @@ body{
 	
 	text-align:center;
 	font-family:alagard;
+	font-weight: normal;
+	font-style: none;
 	color: #DDD;
 	padding:30px;
 	
@@ -463,6 +477,8 @@ body{
 	justify-content: center;
 	text-align: center;	
 	font-family: alagard;
+	font-weight: normal;
+	font-style: none;
 	font-style: none;
 	color: rgba(0, 0, 0, 0.65);
 	font-size: 12px;
@@ -499,6 +515,8 @@ body{
 	justify-content: center;
 	text-align: center;	
 	font-family: alagard;
+	font-weight: normal;
+	font-style: none;
 	font-style: none;
 	color: rgba(0, 0, 0, 0.65);
 }
@@ -569,6 +587,8 @@ body{
 	bottom:0px;
 	width:100%;
 	font-family: alagard;
+	font-weight: normal;
+	font-style: none;
 	background-color: gray;
 	color: #DDD;
 	border-style:double;
@@ -635,6 +655,8 @@ html{
 .items{
 	
 	font-family: alagard;
+	font-weight: normal;
+	font-style: none;
 	display:flex;
 	flex:wrap;
 	flex-flow:space-between;
