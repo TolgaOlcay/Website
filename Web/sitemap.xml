@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://tolgaolcay.com/</loc>
+  <lastmod>2024-06-29T04:29:27+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://tolgaolcay.com/home</loc>
+  <lastmod>2024-06-29T04:29:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tolgaolcay.com/course</loc>
+  <lastmod>2024-06-29T04:29:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tolgaolcay.com/personal</loc>
+  <lastmod>2024-06-29T04:29:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tolgaolcay.com/Diploma.pdf</loc>
+  <lastmod>2024-06-29T04:29:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tolgaolcay.com/Resume.pdf</loc>
+  <lastmod>2024-06-29T04:29:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tolgaolcay.com/Stack+Queue.pdf</loc>
+  <lastmod>2024-06-29T04:29:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tolgaolcay.com/Tree.pdf</loc>
+  <lastmod>2024-06-29T04:29:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tolgaolcay.com/SQL%20doc.pdf</loc>
+  <lastmod>2024-06-29T04:29:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tolgaolcay.com/TASKME.pdf</loc>
+  <lastmod>2024-06-29T04:29:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tolgaolcay.com/SRS.pdf</loc>
+  <lastmod>2024-06-29T04:29:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tolgaolcay.com/Structural.pdf</loc>
+  <lastmod>2024-06-29T04:29:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
